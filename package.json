@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.13.0",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.8"
+  }
+}
